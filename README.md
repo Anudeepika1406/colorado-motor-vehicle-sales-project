@@ -93,4 +93,4 @@ Highest Market Risk: Counties with the highest Sales Volatility (Standard Deviat
 
 Investment Prioritization: Advise on prioritizing capital (e.g., dealership expansion) in counties based on the combination of high market share and low sales volatility.
 
-
+![Image Alt](https://github.com/Anudeepika1406/colorado-motor-vehicle-sales-project/blob/010534d89c82086d37155a287b655348b15bbbf4/WhatsApp%20Image%202025-10-03%20at%2018.40.10_1937c000.jpg)
